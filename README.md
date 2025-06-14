@@ -2,7 +2,7 @@
 
 Este projeto é um assistente inteligente para consulta de estoque de produtos, preços e reposições, utilizando modelos de linguagem GPT integrados a um banco de dados SQLite.
 
-![Tela do aplicativo rodando](assets/screenshot.png)
+![Tela do aplicativo rodando](assets/agent-estoque.png)
 
 ## Propósito
 
