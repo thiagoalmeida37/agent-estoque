@@ -2,6 +2,8 @@
 
 Este projeto é um assistente inteligente para consulta de estoque de produtos, preços e reposições, utilizando modelos de linguagem GPT integrados a um banco de dados SQLite.
 
+![Tela do aplicativo rodando](assets/screenshot.png)
+
 ## Propósito
 
 O objetivo é fornecer uma interface amigável para que usuários possam fazer perguntas sobre o estoque e obter respostas detalhadas, utilizando inteligência artificial para interpretar e consultar os dados do banco.
